@@ -5,6 +5,9 @@
 
 Это демонстрационный бот работающий на LiveSurf SDK (Python)
 
+В строке указываем ваш токен от телеграм бота
+TELEGRAM_BOT_TOKEN= "Тут Токен бота телеграм"
+
 Установка:
 python -m venv .venv
 source .venv/bin/activate
